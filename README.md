@@ -18,7 +18,7 @@ Melissa and Will pair programmed both projects. Melissa generally focused on the
 ## What you learned
 
 TODO: what worked / what didn't work
-The Museum VR Tutorial was a great introduction to working with Unity 3D and creating a virtual reality space. We initially began with creating a confined space using the Unity Cube 3D object. This required manipulating the object's position to align what would become the walls, and roof of the museum. 
+The Museum VR Tutorial was a great introduction to working with Unity 3D and creating a virtual reality space. We initially began with creating a confined space using the Unity Cube 3D object. This required manipulating the object's position to align what would become the walls, and roof of the museum. We used a wood-resembling material to alter the museum floor which was a Unity plane. It was interesting to learn how to use these built-in objects and apply materials to enhance how realistic they appear. 
 
 - displays various artifacts
 - has built-in sound for the descriptions
