@@ -28,6 +28,7 @@ We added descriptions to complement the museums displays. It was interesting wor
 
 To expand the museum experience, we added two more artifacts and followed the steps above, ensuring there was consistency in our virtual reality space. We noted how important it was to apply global illumination to our objects, mainly the columns, to create a seamless scene with the area lighting. We also learned about altering resolutions and its effect on the appearance of the virtual space. 
 
+We were unable to complete testing on our VR Museum as we do not have access to an Oculus, however our virtual space does appear as expected. 
 ## Authors
 
 TODO: list of authors
