@@ -1,13 +1,18 @@
 # Hack Technology / Project Attempted
-VR, Building a Museum with Unity3D
-AR, Mobile Applications using Unity
+- VR, Building a Museum with Unity3D
+- AR, Mobile Applications using Unity
 
 ## What you built?
 
 We built a VR Museum from scratch using Unity3D.  
 
-Include some screenshots.
-[How?](https://help.github.com/articles/about-readmes/#relative-links-and-image-paths-in-readme-files)
+<img width="1440" alt="Screen Shot 2022-09-30 at 2 53 59 PM" src="https://user-images.githubusercontent.com/72226780/193338217-204adf27-3fa2-4aa3-99d2-0d00e4cbbfb2.png">
+
+<img width="1440" alt="Screen Shot 2022-09-30 at 2 53 42 PM" src="https://user-images.githubusercontent.com/72226780/193338141-924a64a6-1fed-4c8b-9f0e-f3a6908af592.png">
+
+<img width="1440" alt="Screen Shot 2022-09-30 at 2 54 46 PM" src="https://user-images.githubusercontent.com/72226780/193338156-f361ac17-4f5b-40dd-a2b8-e81edd0b3174.png">
+
+<img width="370" alt="Screen Shot 2022-09-30 at 2 55 03 PM" src="https://user-images.githubusercontent.com/72226780/193338175-ebc1d5ea-7bf8-4bc2-b147-0fc7ad8dcc63.png">
 
 ## Who Did What?
 
@@ -38,5 +43,5 @@ We will note that the tutorial also covered an overview of AR, and gave us the g
 
 ## Acknowledgments
 
-Museum VR Tutorial: https://www.youtube.com/watch?v=7dwfOg9v3Zg
-AR Mobile Applications: https://www.youtube.com/watch?v=WzfDo2Wpxks
+- Museum VR Tutorial: https://www.youtube.com/watch?v=7dwfOg9v3Zg
+- AR Mobile Applications: https://www.youtube.com/watch?v=WzfDo2Wpxks
