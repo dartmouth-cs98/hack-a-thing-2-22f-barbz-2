@@ -4,11 +4,11 @@
 
 ## What you built?
 
-We built a VR Museum from scratch using Unity3D.  
+We built a VR Museum from scratch using Unity3D and experimented with AR using Unity as well. 
 
 <img width="1440" alt="Screen Shot 2022-09-30 at 2 53 59 PM" src="https://user-images.githubusercontent.com/72226780/193338217-204adf27-3fa2-4aa3-99d2-0d00e4cbbfb2.png">
 
-<img width="1426" alt="Screen Shot 2022-09-30 at 2 53 42 PM" src="https://user-images.githubusercontent.com/72226780/193338809-1f14dbbe-e90b-4dc5-b255-034ecf5b7217.png">
+<img width="1440" alt="Screen Shot 2022-09-30 at 2 53 42 PM" src="https://user-images.githubusercontent.com/72226780/193338809-1f14dbbe-e90b-4dc5-b255-034ecf5b7217.png">
 
 <img width="1440" alt="Screen Shot 2022-09-30 at 2 54 46 PM" src="https://user-images.githubusercontent.com/72226780/193338156-f361ac17-4f5b-40dd-a2b8-e81edd0b3174.png">
 
@@ -36,7 +36,7 @@ When trying the AR marker recognition, it was not too difficult to install the s
 
 We will note that the tutorial also covered an overview of AR, and gave us the general understanding of the various types of XR. The marker one seemed the most reasonable to implement; however, since neither of the team members have an android, it made testing an issue. 
 
-<img width="357" alt="Screen Shot 2022-09-30 at 4 35 13 PM" src="https://user-images.githubusercontent.com/66576635/193352259-6a293bee-21fa-4397-bd01-cee244a3f09f.png">
+<img width="1440" alt="Screen Shot 2022-09-30 at 4 35 13 PM" src="https://user-images.githubusercontent.com/66576635/193352259-6a293bee-21fa-4397-bd01-cee244a3f09f.png">
 
 ![marker](https://user-images.githubusercontent.com/66576635/193352347-fb6346c1-b369-4529-b4bd-05b3f41371e4.png)
 
