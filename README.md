@@ -24,11 +24,11 @@ Once having our general space set up, we applied area lighting to further convey
 
 Now having a realistic setting to work with, we began adding our museum displays and artifacts. We began with placing one cube object and extending its length to resemble a column. We then placed the artifact on the column, scaling it to a reasonable size and placing it directly on top of the column. It was particularly difficult to work with these objects without a mouse, given that the Unity movements and scalabilities work best with a mouse's functionalities as opposed to a touch pad.  
 
-We added descriptions to complement the museums displays. It was interesting working with text and scaling it to a fixed place on the wall. Again, it would have been helpful to have a mouse that facilitated the movements. To continue enhancing the virtual museum experience, we added audio to the display which read the description that was provided. We used the canvas and button objects to create an interactive button for the user and applied the audio within this scope. 
+We added descriptions to complement the museums displays. It was interesting working with text and scaling it to a fixed place on the wall. Again, it would have been helpful to have a mouse that facilitated the movements. To continue enhancing the virtual museum experience, we added audio to the display which read the description that was provided. We used the canvas and button objects to create an interactive button for the user and applied the audio within this scope with a C# script. 
 
 To expand the museum experience, we added two more artifacts and followed the steps above, ensuring there was consistency in our virtual reality space. We noted how important it was to apply global illumination to our objects, mainly the columns, to create a seamless scene with the area lighting. We also learned about altering resolutions and its effect on the appearance of the virtual space. 
 
-We were unable to complete testing on our VR Museum as we do not have access to an Oculus, however our virtual space does appear as expected. 
+We were unable to complete testing on our VR Museum as we do not have access to an Oculus, however our virtual space does appear as expected.
 ## Authors
 
 TODO: list of authors
