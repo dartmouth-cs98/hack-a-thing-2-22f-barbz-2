@@ -36,6 +36,10 @@ When trying the AR marker recognition, it was not too difficult to install the s
 
 We will note that the tutorial also covered an overview of AR, and gave us the general understanding of the various types of XR. The marker one seemed the most reasonable to implement; however, since neither of the team members have an android, it made testing an issue. 
 
+<img width="357" alt="Screen Shot 2022-09-30 at 4 35 13 PM" src="https://user-images.githubusercontent.com/66576635/193352259-6a293bee-21fa-4397-bd01-cee244a3f09f.png">
+
+![marker](https://user-images.githubusercontent.com/66576635/193352347-fb6346c1-b369-4529-b4bd-05b3f41371e4.png)
+
 ## Authors
 
 - Melissa Valencia
