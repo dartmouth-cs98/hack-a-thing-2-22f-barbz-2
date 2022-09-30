@@ -8,7 +8,7 @@ We built a VR Museum from scratch using Unity3D.
 
 <img width="1440" alt="Screen Shot 2022-09-30 at 2 53 59 PM" src="https://user-images.githubusercontent.com/72226780/193338217-204adf27-3fa2-4aa3-99d2-0d00e4cbbfb2.png">
 
-<img width="1432" alt="Screen Shot 2022-09-30 at 2 53 42 PM" src="https://user-images.githubusercontent.com/72226780/193338693-120b6273-f3c2-4411-bdcb-f8f84a9aa89b.png">
+<img width="1426" alt="Screen Shot 2022-09-30 at 2 53 42 PM" src="https://user-images.githubusercontent.com/72226780/193338809-1f14dbbe-e90b-4dc5-b255-034ecf5b7217.png">
 
 <img width="1440" alt="Screen Shot 2022-09-30 at 2 54 46 PM" src="https://user-images.githubusercontent.com/72226780/193338156-f361ac17-4f5b-40dd-a2b8-e81edd0b3174.png">
 
